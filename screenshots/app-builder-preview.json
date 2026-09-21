@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Кардиофизика",
+      "hasCanvas": false,
+      "bodyTextLen": 291,
+      "bodyTextHash": "3aa10f3dd39974f38ced1ff40e6ed2b7f8897a50119cc449ea1669397007f04d",
+      "bodyTextPrefix": "Кардиофизика ← → ПРОБЕЛ · ESC СЕТКА · P АВТО HOL·REC МЕХАНИКА · ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Кардиофизика",
+      "hasCanvas": false,
+      "bodyTextLen": 259,
+      "bodyTextHash": "9ba2b1a945971bb4f12862711ca3540c312cb94d15342a1c6ccc2e00d7510eaf",
+      "bodyTextPrefix": "Кардиофизика HOL·REC МЕХАНИКА · ЭЛЕКТРИЧЕСТВО · ЖИВАЯ ТКАНЬ Физи",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
